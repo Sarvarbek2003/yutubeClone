@@ -1,0 +1,22 @@
+[
+    {
+        "userId": 1,
+        "password": "42cfd63faff471b4ae9affe5e5a286b6c4b9b0c4dcdba77710d42d831ed0d7e9",
+        "username": "sarvarbek"
+    },
+    {
+        "userId": 2,
+        "password": "471b462d1f0600cd26607555fa61df807991dbd17304625ac1a77c49447ab615",
+        "username": "Sarvarbek2003"
+    },
+    {
+        "userId": 3,
+        "password": "9f903ff99cbecb8a807adc0082860de82a0f6d1e4cb03d7fb455f2a922eb4b33",
+        "username": "Sarvarbek22"
+    },
+    {
+        "userId": 4,
+        "password": "9e4abb686fd4cdaac9820324dd6d242eb62ce1886bbdb116e1b4aeb6fcc3f2c2",
+        "username": "Sarvarbek223"
+    }
+]
