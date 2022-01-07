@@ -20,6 +20,7 @@ const userRouter = require('./routes/user.js')
 const authRouter = require('./routes/auth.js')
 const imageRouter = require('./routes/image.js')
 const vidioRouter = require('./routes/vidio.js')
+const authhRouter = require('./routes/authh.js')
 
 app.get('/download/data/files/:fileName', (req, res) => {
 	res.download( path.join(__dirname, 'files', req.params.fileName) )
@@ -29,6 +30,7 @@ app.use('/auth', authRouter)
 app.use('/images', imageRouter)
 app.use('/users', userRouter)
 app.use('/vidio', vidioRouter)
+app.use('/ath', authhRouter)
 
 
 app.listen(PORT, () => console.log('server is running on http://localhost:' + PORT))
